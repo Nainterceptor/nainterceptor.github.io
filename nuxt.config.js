@@ -1,41 +1,4 @@
 module.exports = {
-  build: {
-    extend (config) {
-      config.plugins = config.plugins.filter((plugin) => plugin.constructor.name !== 'UglifyJsPlugin');
-    },
-    loaders: [
-      {
-        test: /\.(png|jpe?g|gif)$/,
-        loader: 'url-loader',
-        query: {
-          limit: 1000,
-          name: 'img/[name].[hash:7].[ext]',
-        },
-      },
-      {
-        test: /\.(svg)$/,
-        use: [
-          {
-            loader: 'url-loader',
-            query: {
-              limit: 1000,
-              name: 'img/[name].[hash:7].[ext]',
-            },
-          },
-          {
-            loader: 'svgo-loader',
-            options: {
-              plugins: [
-                { removeTitle: true },
-                { convertColors: { shorthex: false } },
-                { convertPathData: true },
-              ],
-            },
-          },
-        ],
-      },
-    ],
-  },
   head: {},
   loading: { color: '#588C7E' },
   manifest: {
@@ -47,16 +10,16 @@ module.exports = {
   modules: [
     '@nuxtjs/pwa',
     'qonfucius-nuxt-fontawesome',
-    ['qonfucius-nuxt-bulma', { css: false }],
+    ['qonfucius-nuxt-bulma', { css: false, postcss: false }],
   ],
   fontAwesome: {
     packs: [
       {
-        package: '@fortawesome/fontawesome-free-brands',
+        package: '@fortawesome/free-brands-svg-icons',
         icons: ['faGithub', 'faTwitter', 'faLinkedin'],
       },
       {
-        package: '@fortawesome/fontawesome-free-regular',
+        package: '@fortawesome/free-regular-svg-icons',
         icons: ['faEnvelope'],
       },
     ],

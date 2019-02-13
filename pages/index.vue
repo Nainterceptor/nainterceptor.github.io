@@ -6,24 +6,29 @@
           <div class="media">
             <figure class="media-left">
               <p class="image is-64x64">
-                <img src="https://www.gravatar.com/avatar/3113b06c78a972112e4f7bd4bd06a89a" />
+                <img src="https://www.gravatar.com/avatar/3113b06c78a972112e4f7bd4bd06a89a">
               </p>
             </figure>
             <div class="media-content">
-              <h1 class="title">Gaël Demette</h1>
-              <div class="subtitle">aka Panda, aka Nainterceptor</div>
+              <h1 class="title">
+                Gaël Demette
+              </h1>
+              <div class="subtitle">
+                aka Panda, aka Nainterceptor
+              </div>
             </div>
           </div>
         </div>
       </div>
     </section>
     <section class="container">
-
       <main class="content">
         <h2>À propos de moi</h2>
         <p>
           Jeune développeur de 26 ans, je suis tombé dans le code quand j'étais petit.
-          Ma <a target="_blank" href="http://codes-sources.commentcamarche.net/source/41398-algorithme-d-euclide-ou-divisions-successives-calcule-du-pgcd-en-bonne-forme">première contribution opensource</a>  date de 2007,
+          Ma <a target="_blank" href="http://codes-sources.commentcamarche.net/source/41398">
+            première contribution opensource
+          </a>  date de 2007,
           alors que j'avais 14 ans. Autodidacte dans l'âme, et grand passionné de web,
           je suis sans cesse en veille de nouvelles technologies.
         </p>
@@ -49,8 +54,14 @@
             <ul>
               <li>2014 > 2016 - Master of Science à Supinfo (Paris, Tour Montparnasse)</li>
               <li>2013 > 2014 - Bachelor of Science à Supinfo (Paris, Tour Montparnasse)</li>
-              <li>2011 > 2013 - BTS Services Informatiques aux Organisations (S.I.O.) Option Solutions Logicielles et Application Métiers à IRIS (Paris XVII)</li>
-              <li>2008 > 2011 - Bac Professionnel Systèmes Electroniques et Numériques (S.E.N.) Option Télécoms et Réseaux à IRIS (Paris XVII)</li>
+              <li>
+                2011 > 2013 - BTS Services Informatiques aux Organisations (S.I.O.) Option Solutions
+                Logicielles et Application Métiers à IRIS (Paris XVII)
+              </li>
+              <li>
+                2008 > 2011 - Bac Professionnel Systèmes Electroniques et Numériques (S.E.N.)
+                Option Télécoms et Réseaux à IRIS (Paris XVII)
+              </li>
             </ul>
           </div>
           <div class="column">

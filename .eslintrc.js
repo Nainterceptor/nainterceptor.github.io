@@ -1,20 +1,22 @@
 module.exports = {
   root: true,
-  parser: 'babel-eslint',
-  env: {
-    browser: true,
-    node: true,
+  parserOptions: {
+    parser: 'babel-eslint',
+    "sourceType": "module",
   },
-  extends: 'airbnb-base',
-  // required to lint *.vue files
-  plugins: [
-    'html',
+  extends: [
+    "@nuxtjs",
+    'airbnb-base',
   ],
-  // add your custom rules here
   rules: {
-    'import/no-unresolved': 0,
-    'no-param-reassign': 0,
-    'no-underscore-dangle': 0,
+    'max-len': ['error', { code: 120 }],
+    'vue/component-name-in-template-casing': ['error', 'kebab-case'],
   },
-  globals: {},
+  settings: {
+    'import/resolver': {
+      nuxt: {
+        extensions: ['.js', '.vue'],
+      },
+    },
+  },
 };
