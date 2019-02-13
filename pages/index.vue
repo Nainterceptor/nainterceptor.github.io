@@ -22,7 +22,7 @@
       <main class="content">
         <h2>À propos de moi</h2>
         <p>
-          Jeune développeur de 25 ans, je suis tombé dans le code quand j'étais petit.
+          Jeune développeur de 26 ans, je suis tombé dans le code quand j'étais petit.
           Ma <a target="_blank" href="http://codes-sources.commentcamarche.net/source/41398-algorithme-d-euclide-ou-divisions-successives-calcule-du-pgcd-en-bonne-forme">première contribution opensource</a>  date de 2007,
           alors que j'avais 14 ans. Autodidacte dans l'âme, et grand passionné de web,
           je suis sans cesse en veille de nouvelles technologies.
@@ -31,10 +31,11 @@
           <div class="column">
             <h2>Expériences professionnelles</h2>
             <ul>
+              <li>Depuis Fév. 2018 - Président @ Qonfucius</li>
               <li>Avr. 2016 > Janv. 2018 - CTO @ HungryUp</li>
               <li>Sept. 2015 > Janv. 2016 - Lead Developer @ Adrenaline Hunter</li>
+              <li>2014 > 2018 - Auto entrepreneur et freelance</li>
               <li>2014 > 2015 - Formations d’ingénieurs BAC +3 à BAC +5 (Java EE et Web)</li>
-              <li>Depuis 2014 - Auto entrepreneur et freelance</li>
               <li>2013 > 2014 - Développeur web @ Webtales</li>
               <li>2012 > 2013 - Développeur web @ Izeos</li>
               <li>2011 > 2012 - Développeur web @ agence de communication « Com’ des grands »</li>
@@ -62,7 +63,7 @@
             <ul>
               <li>Autodidacte</li>
               <li>Conférencier</li>
-              <li>Contributeur open-source (~70 dépots en tout genre)</li>
+              <li>Contributeur open-source (~90 dépots en tout genre)</li>
             </ul>
           </div>
         </div>
@@ -81,7 +82,7 @@
               <li>Symfony 2 (Intermédiaire)</li>
               <li>Zend framework 2 (Intermédiaire)</li>
               <li>Go-lang (Intermédiaire)</li>
-              <li>Rust-lang (Enthousiaste)</li>
+              <li>Rust-lang (Intermédiaire)</li>
             </ul>
           </div>
           <div class="column">
@@ -91,7 +92,9 @@
               <li>Scripting (Intermédiaire)</li>
               <li>Docker (Intermédiaire)</li>
               <li>Ansible (Intermédiaire)</li>
+              <li>Terraform (Intermédiaire)</li>
               <li>Bases de données documentaires (MongoDB) (Intermédiaire)</li>
+              <li>Bases de données multi-tenant (Graph, documentaire) (ArangoDB) (Intermédiaire)</li>
             </ul>
           </div>
           <div class="column">
