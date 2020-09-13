@@ -16,9 +16,19 @@
           <nuxt-link class="navbar-item" to="/">
             Mon profil
           </nuxt-link>
-          <nuxt-link class="navbar-item" to="/00-panda">
-            00 Panda
-          </nuxt-link>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link" href="#">
+              Autres
+            </a>
+            <div class="navbar-dropdown is-boxed">
+              <nuxt-link class="navbar-item" :to="{name: '00-panda' }">
+                00 Panda
+              </nuxt-link>
+              <nuxt-link class="navbar-item" :to="{name: 'wishlist' }">
+                Ma liste de souhaits
+              </nuxt-link>
+            </div>
+          </div>
           <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link" href="#">
               Contact
