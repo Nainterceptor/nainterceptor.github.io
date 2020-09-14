@@ -25,7 +25,7 @@
       <main class="content">
         <h2>À propos de moi</h2>
         <p>
-          Jeune développeur de 26 ans, je suis tombé dans le code quand j'étais petit.
+          Jeune développeur de 28 ans, je suis tombé dans le code quand j'étais petit.
           Ma <a target="_blank" href="http://codes-sources.commentcamarche.net/source/41398">
             première contribution opensource
           </a>  date de 2007,
