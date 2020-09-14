@@ -42,6 +42,10 @@
                 Armoire en métal pour sous sol.
                 Dimensions max : 180cm de hauteur, 46cm de profondeur, 150cm de largeur.
               </li>
+              <li>
+                Tabouret style atelier, réglable en hauteur, assise en bois, fabriquée en France,
+                à défaut chez nos voisins européens, et/ou d'occasion.
+              </li>
             </ul>
           </div>
         </div>
