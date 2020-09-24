@@ -20,14 +20,16 @@
           <div class="column">
             <h2>Vêtements</h2>
             <ul>
-              <li>Chaussettes (fabriquées au plus proche, en France, à défaut chez nos voisins européens)</li>
+              <li>
+                Chaussettes (fabriquées au plus proche, en France, à défaut chez nos voisins européens), pointure 42.5
+              </li>
               <li>
                 <a
                   href="https://www.vollebak.com/product/100-year-shorts-granite/"
                   target="_blank"
                   rel="nofollow"
                 >
-                  Short Vollebak kakhi ou granite, taille M
+                  Short Vollebak kakhi ou granite, taille L
                 </a>
               </li>
               <li>
@@ -36,7 +38,7 @@
                   target="_blank"
                   rel="nofollow"
                 >
-                  Pantalon Vollebak kakhi ou granite, taille M
+                  Pantalon Vollebak kakhi ou granite, taille L
                 </a>
               </li>
             </ul>
