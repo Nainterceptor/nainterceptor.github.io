@@ -32,6 +32,14 @@
           alors que j'avais 14 ans. Autodidacte dans l'âme, et grand passionné de web,
           je suis sans cesse en veille de nouvelles technologies.
         </p>
+        <p>
+          Aujourd'hui fondateur de Qonfucius, et sa marque Qongzi, j'essaye de revenir aux sources de ce qu'est
+          une entreprise : un collectif de personnes qui souhaitent avant tout travailler ensemble.
+        </p>
+        <p>
+          Je garde chez Qonfucius un rôle de lead tech, sans cesse en quête de perfectionnement, et non pas de manager.
+          Mes collaborateurs ont la compétence et ma confiance pour se manager tout seuls.
+        </p>
         <div class="columns">
           <div class="column">
             <h2>Expériences professionnelles</h2>
@@ -74,51 +82,55 @@
             <ul>
               <li>Autodidacte</li>
               <li>Conférencier</li>
-              <li>Contributeur open-source (~90 dépots en tout genre)</li>
+              <li>Contributeur open-source (+90 dépots en tout genre)</li>
             </ul>
           </div>
         </div>
-        <h2>Compétences</h2>
+        <h2>J'ai déjà mis en prod...</h2>
+        <p class="is-size-7">Dernière mise à jour, septembre 2020</p>
         <div class="columns">
           <div class="column">
-            <h3>Développement</h3>
+            <h3>Développement (Le plus récent en premier)</h3>
             <ul>
-              <li>NodeJS (Confirmé)</li>
-              <li>VueJS/NuxtJS (Confirmé)</li>
-              <li>Ember.JS (Confirmé)</li>
-              <li>PHP (Confirmé)</li>
-              <li>Web statique (HTML5/CSS3) (Confirmé)</li>
-              <li>Bases de données relationnelles (MySQL/MariaDB) (Confirmé)</li>
-              <li>Bases de données documentaires (MongoDB) (Confirmé)</li>
-              <li>Symfony 2 (Intermédiaire)</li>
-              <li>Zend framework 2 (Intermédiaire)</li>
-              <li>Go-lang (Intermédiaire)</li>
-              <li>Rust-lang (Intermédiaire)</li>
+              <li>NodeJS</li>
+              <li>VueJS/NuxtJS</li>
+              <li>Bases de données documentaires (MongoDB)</li>
+              <li>Bases de données graph (ArangoDB)</li>
+              <li>Rust-lang</li>
+              <li>Bases de données clef/valeur (Redis)</li>
+              <li>Ember.JS</li>
+              <li>PHP 5</li>
+              <li>Web statique (HTML5/CSS3)</li>
+              <li>Bases de données relationnelles (MySQL/MariaDB)</li>
+              <li>Symfony 2</li>
+              <li>Go-lang</li>
+              <li>Zend framework 2</li>
             </ul>
           </div>
           <div class="column">
-            <h3>Administration système</h3>
+            <h3>Administration système (Le plus récent en premier)</h3>
             <ul>
-              <li>Linux (Debian) (Confirmé)</li>
-              <li>Scripting (Intermédiaire)</li>
-              <li>Docker (Intermédiaire)</li>
-              <li>Ansible (Intermédiaire)</li>
-              <li>Terraform (Intermédiaire)</li>
-              <li>Bases de données documentaires (MongoDB) (Intermédiaire)</li>
-              <li>Bases de données multi-tenant (Graph, documentaire) (ArangoDB) (Intermédiaire)</li>
+              <li>Kubernetes</li>
+              <li>Terraform</li>
+              <li>Chaines DevSecOps</li>
+              <li>Docker</li>
+              <li>Linux (Debian, CentOS...)</li>
+              <li>Ansible</li>
+              <li>Bases de données multi-tenant (Graph & documentaire) (ArangoDB)</li>
+              <li>Bases de données documentaires (MongoDB)</li>
+              <li>Bases de données relationnelles (MariaDB)</li>
+              <li>Scripting</li>
             </ul>
           </div>
           <div class="column">
-            <h3>Gestion de projet et d'équipe</h3>
+            <h3>Outils de gestion de projet (Par ordre d'utilisation récente)</h3>
             <ul>
-              <li>Git (Confirmé)</li>
-              <li>Gitlab (Confirmé)</li>
-              <li>Redmine (Confirmé)</li>
-              <li>Atlassian (Confirmé)</li>
-              <li>Gestion d'équipe (Intermédiaire)</li>
-              <li>Gestion de délais (Intermédiaire)</li>
-              <li>Gestion de projet (Intermédiaire)</li>
-              <li>Subversion (Intermédiaire)</li>
+              <li>Gitlab</li>
+              <li>Github</li>
+              <li>Trello</li>
+              <li>Atlassian</li>
+              <li>Redmine</li>
+              <li>Subversion</li>
             </ul>
           </div>
         </div>
@@ -126,6 +138,7 @@
     </section>
   </div>
 </template>
+
 <style lang="scss" scoped>
   @import "assets/css/variables";
   @import "~bulma/sass/layout/hero.sass";
