@@ -21,7 +21,8 @@
             <h2>Vêtements</h2>
             <ul>
               <li>
-                Chaussettes (fabriquées au plus proche, en France, à défaut chez nos voisins européens), pointure 42.5
+                Chaussettes courtes (socquettes)
+                (fabriquées au plus proche, en France, à défaut chez nos voisins européens), pointure 42.5
               </li>
               <li>
                 <a
@@ -29,7 +30,7 @@
                   target="_blank"
                   rel="nofollow"
                 >
-                  Short Vollebak kakhi ou granite, taille L
+                  Short Vollebak kakhi ou granite, taille M
                 </a>
               </li>
               <li>
@@ -38,7 +39,7 @@
                   target="_blank"
                   rel="nofollow"
                 >
-                  Pantalon Vollebak kakhi ou granite, taille L
+                  Pantalon Vollebak kakhi ou granite, taille M
                 </a>
               </li>
             </ul>
@@ -54,9 +55,6 @@
               <li>
                 Pied à coulisse FACOM
               </li>
-              <li>Pince coupante FACOM "coupe tout"</li>
-              <li>Equerre de menuisier FACOM, 30cm</li>
-              <li>Tenaille Russe FACOM</li>
               <li>Pince à bec plat FACOM</li>
               <li>
                 Tabouret style atelier, réglable en hauteur, assise en bois, fabriquée en France,
@@ -69,13 +67,6 @@
                   target="_blank"
                   rel="nofollow"
                 >Bigboy 360-13</a>, acier japonais
-              </li>
-              <li>
-                <a
-                  href="https://www.silky-europe.fr/scie-a-bois-woodboy-240-32"
-                  target="_blank"
-                  rel="nofollow"
-                >Scie à bois Woodboy 240-32 (sans dos)</a>
               </li>
               <li>
                 <a
@@ -133,6 +124,7 @@
     </section>
   </div>
 </template>
+
 <style lang="scss" scoped>
 @import "assets/css/variables";
 @import "~bulma/sass/layout/hero.sass";
